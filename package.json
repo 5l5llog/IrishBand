@@ -1,0 +1,19 @@
+{
+  "name": "irish_band",
+  "version": "1.0.0",
+  "description": "A project about the music band.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5l5llog/IrishBand.git"
+  },
+  "author": "H Rogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5l5llog/IrishBand/issues"
+  },
+  "homepage": "https://github.com/5l5llog/IrishBand#readme"
+}
